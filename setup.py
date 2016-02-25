@@ -1,15 +1,14 @@
 from setuptools import setup, find_packages
 from codecs import open
-from os import path
+import os
 
-here = path.abspath(path.dirname(__file__))
 
-with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
+with open(os.path.join(os.path.dirname(__file__), 'README.rst')) as f:
     long_description = f.read()
 
 setup(
     name='PyZureML',
-    version='1.0.2',
+    version='1.0.5',
 
     description='Python wrapper for the Microsoft Azure Machine Learning webservice endpoint API.',
     long_description=long_description,
