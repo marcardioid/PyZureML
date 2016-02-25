@@ -9,7 +9,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
 
 setup(
     name='PyZureML',
-    version='1.0.1',
+    version='1.0.2',
 
     description='Python wrapper for the Microsoft Azure Machine Learning webservice endpoint API.',
     long_description=long_description,
