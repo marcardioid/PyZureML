@@ -2,6 +2,7 @@ PyZureML
 ========
 
 Python wrapper for the Microsoft Azure Machine Learning webservice endpoint API.
+Programmatically create, delete, get and update endpoints for any Azure Machine Learning webservice.
 
 Download
 --------
