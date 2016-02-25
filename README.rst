@@ -48,5 +48,5 @@ Usage
 ::
 
     from PyZureML import endpoints
-    endpoints.create_endpoint(<locale>, <workspace_id>, <api_token>, <webservice_id>, <endpoint_name>, <endpoint_description>)
+    endpoints.create_endpoint(<locale>, <workspace_id>, <api_token>, <webservice_id>, <endpoint_name>, <description>)
     endpoints.delete_endpoint(<locale>, <workspace_id>, <api_token>, <webservice_id>, <endpoint_name>)
