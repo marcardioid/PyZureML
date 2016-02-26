@@ -33,7 +33,7 @@ setup(
         'Programming Language :: Python :: 3.5',
     ],
 
-    keywords='microsoft azure machine learning webservice endpoint api wrapper',
+    keywords='pyzure pyzureml microsoft azure machine learning webservice endpoint api wrapper',
 
     packages=find_packages(exclude=['docs', 'tests']),
 

@@ -9,7 +9,7 @@ Download
 --------
 
 Option 1: Download from PyPi
-~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To install via the Python Package Index (PyPI), type:
 
@@ -18,7 +18,7 @@ To install via the Python Package Index (PyPI), type:
     pip install PyZureML
 
 Option 2: Clone via Git
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
 
 To get the source code via Git just type:
 
@@ -39,7 +39,7 @@ Download a zip of the code via GitHub or PyPi. Then, type:
     python setup.py install
 
 Requirements
---------------------
+------------
 
 -  Python 3.x
 -  Requests
